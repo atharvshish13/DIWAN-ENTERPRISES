@@ -1,0 +1,997 @@
+{
+  "portfolio": {
+    "van-branding": [
+      {
+        "src": "assets/img/portfolio/van-branding/van_customize_01.jpeg",
+        "file": "van_customize_01.jpeg",
+        "title": "Agri-Input Brand Campaign Van",
+        "width": 565,
+        "height": 425
+      },
+      {
+        "src": "assets/img/portfolio/van-branding/van_customize_02.jpeg",
+        "file": "van_customize_02.jpeg",
+        "title": "L-Shape Custom Van Branding",
+        "width": 715,
+        "height": 425
+      },
+      {
+        "src": "assets/img/portfolio/van-branding/van_customize_03.jpeg",
+        "file": "van_customize_03.jpeg",
+        "title": "Multi-Angle Vehicle Graphics",
+        "width": 715,
+        "height": 424
+      },
+      {
+        "src": "assets/img/portfolio/van-branding/van_customize_04.jpeg",
+        "file": "van_customize_04.jpeg",
+        "title": "Commercial Promotional Vehicle",
+        "width": 578,
+        "height": 425
+      },
+      {
+        "src": "assets/img/portfolio/van-branding/van_customize_05.jpeg",
+        "file": "van_customize_05.jpeg",
+        "title": "Full Vehicle Wrap Campaign",
+        "width": 226,
+        "height": 273
+      },
+      {
+        "src": "assets/img/portfolio/van-branding/van_hut_shape_01.jpeg",
+        "file": "van_hut_shape_01.jpeg",
+        "title": "Hut Shape Custom Campaign Van",
+        "width": 714,
+        "height": 424
+      },
+      {
+        "src": "assets/img/portfolio/van-branding/van_hut_shape_02.jpeg",
+        "file": "van_hut_shape_02.jpeg",
+        "title": "Rural Campaign Van Branding",
+        "width": 715,
+        "height": 425
+      },
+      {
+        "src": "assets/img/portfolio/van-branding/van_hut_shape_03.jpeg",
+        "file": "van_hut_shape_03.jpeg",
+        "title": "Customized Promotional Van",
+        "width": 716,
+        "height": 424
+      },
+      {
+        "src": "assets/img/portfolio/van-branding/van_hut_shape_04.jpeg",
+        "file": "van_hut_shape_04.jpeg",
+        "title": "Field Demonstration Mobile Van",
+        "width": 720,
+        "height": 427
+      },
+      {
+        "src": "assets/img/portfolio/van-branding/van_l_shape_01.jpeg",
+        "file": "van_l_shape_01.jpeg",
+        "title": "Customized L-Shape Van Campaign",
+        "width": 713,
+        "height": 425
+      },
+      {
+        "src": "assets/img/portfolio/van-branding/van_l_shape_02.jpeg",
+        "file": "van_l_shape_02.jpeg",
+        "title": "L-Shape Mobile Branding Van",
+        "width": 719,
+        "height": 432
+      },
+      {
+        "src": "assets/img/portfolio/van-branding/van_l_shape_03.jpeg",
+        "file": "van_l_shape_03.jpeg",
+        "title": "Promotional Demo Vehicle Deployment",
+        "width": 215,
+        "height": 144
+      },
+      {
+        "src": "assets/img/portfolio/van-branding/van_l_shape_04.jpeg",
+        "file": "van_l_shape_04.jpeg",
+        "title": "L-Shape Rural Outreach Van",
+        "width": 714,
+        "height": 421
+      },
+      {
+        "src": "assets/img/portfolio/van-branding/van_l_shape_05.jpeg",
+        "file": "van_l_shape_05.jpeg",
+        "title": "LED Demo Van Display Setup",
+        "width": 719,
+        "height": 432
+      },
+      {
+        "src": "assets/img/portfolio/van-branding/van_l_shape_06.jpeg",
+        "file": "van_l_shape_06.jpeg",
+        "title": "Van L Shape 06",
+        "width": 713,
+        "height": 425
+      }
+    ],
+    "tvs-branding": [
+      {
+        "src": "assets/img/portfolio/tvs-branding/tvs_mela_auto_01.jpeg",
+        "file": "tvs_mela_auto_01.jpeg",
+        "title": "TVS Rural Mela Campaign Activity",
+        "width": 538,
+        "height": 424
+      },
+      {
+        "src": "assets/img/portfolio/tvs-branding/tvs_mela_auto_02.jpeg",
+        "file": "tvs_mela_auto_02.jpeg",
+        "title": "TVS Big Mela Stage & Display",
+        "width": 275,
+        "height": 425
+      },
+      {
+        "src": "assets/img/portfolio/tvs-branding/tvs_mela_auto_03.jpeg",
+        "file": "tvs_mela_auto_03.jpeg",
+        "title": "TVS Glow Sign Hoarding Display",
+        "width": 386,
+        "height": 425
+      },
+      {
+        "src": "assets/img/portfolio/tvs-branding/tvs_mela_auto_04.jpeg",
+        "file": "tvs_mela_auto_04.jpeg",
+        "title": "TVS Auto Rickshaw Fleet Branding",
+        "width": 333,
+        "height": 424
+      },
+      {
+        "src": "assets/img/portfolio/tvs-branding/tvs_mela_auto_05.jpeg",
+        "file": "tvs_mela_auto_05.jpeg",
+        "title": "Tvs Mela Auto 05",
+        "width": 699,
+        "height": 347
+      },
+      {
+        "src": "assets/img/portfolio/tvs-branding/tvs_mela_auto_06.jpeg",
+        "file": "tvs_mela_auto_06.jpeg",
+        "title": "Tvs Mela Auto 06",
+        "width": 644,
+        "height": 428
+      },
+      {
+        "src": "assets/img/portfolio/tvs-branding/tvs_mela_auto_07.jpeg",
+        "file": "tvs_mela_auto_07.jpeg",
+        "title": "Tvs Mela Auto 07",
+        "width": 360,
+        "height": 184
+      },
+      {
+        "src": "assets/img/portfolio/tvs-branding/tvs_vans_01.jpeg",
+        "file": "tvs_vans_01.jpeg",
+        "title": "TVS T-Shape Brand Campaign Van",
+        "width": 714,
+        "height": 425
+      },
+      {
+        "src": "assets/img/portfolio/tvs-branding/tvs_vans_02.jpeg",
+        "file": "tvs_vans_02.jpeg",
+        "title": "TVS Customized Demo Vehicle",
+        "width": 673,
+        "height": 424
+      },
+      {
+        "src": "assets/img/portfolio/tvs-branding/tvs_vans_03.jpeg",
+        "file": "tvs_vans_03.jpeg",
+        "title": "TVS Fleet Roadshow Promotion",
+        "width": 715,
+        "height": 426
+      },
+      {
+        "src": "assets/img/portfolio/tvs-branding/tvs_vans_04.jpeg",
+        "file": "tvs_vans_04.jpeg",
+        "title": "TVS Two-Wheeler Demo Van",
+        "width": 713,
+        "height": 425
+      },
+      {
+        "src": "assets/img/portfolio/tvs-branding/tvs_vans_05.jpeg",
+        "file": "tvs_vans_05.jpeg",
+        "title": "TVS Customized Van Branding",
+        "width": 646,
+        "height": 385
+      }
+    ],
+    "shop-branding": [
+      {
+        "src": "assets/img/portfolio/shop-branding/shop_branding_01.jpeg",
+        "file": "shop_branding_01.jpeg",
+        "title": "Retail Fix & Rotating Sign Board",
+        "width": 695,
+        "height": 213
+      },
+      {
+        "src": "assets/img/portfolio/shop-branding/shop_branding_02.jpeg",
+        "file": "shop_branding_02.jpeg",
+        "title": "Dealer Non-Lit Frontage Board",
+        "width": 715,
+        "height": 231
+      },
+      {
+        "src": "assets/img/portfolio/shop-branding/shop_branding_03.jpeg",
+        "file": "shop_branding_03.jpeg",
+        "title": "Agricultural Input Shop Branding",
+        "width": 384,
+        "height": 418
+      },
+      {
+        "src": "assets/img/portfolio/shop-branding/shop_branding_04.jpeg",
+        "file": "shop_branding_04.jpeg",
+        "title": "Retail Outlet Facade Branding",
+        "width": 339,
+        "height": 417
+      },
+      {
+        "src": "assets/img/portfolio/shop-branding/shop_branding_05.jpeg",
+        "file": "shop_branding_05.jpeg",
+        "title": "Distributor Store Visual Branding",
+        "width": 714,
+        "height": 357
+      },
+      {
+        "src": "assets/img/portfolio/shop-branding/shop_branding_06.jpeg",
+        "file": "shop_branding_06.jpeg",
+        "title": "Commercial Storefront Display",
+        "width": 227,
+        "height": 134
+      },
+      {
+        "src": "assets/img/portfolio/shop-branding/shop_branding_07.jpeg",
+        "file": "shop_branding_07.jpeg",
+        "title": "Dealer Point-of-Sale (POS) Board",
+        "width": 715,
+        "height": 425
+      }
+    ],
+    "hoardings-boards": [
+      {
+        "src": "assets/img/portfolio/hoardings-boards/hoardings_boards_01.jpeg",
+        "file": "hoardings_boards_01.jpeg",
+        "title": "Highway Arch Gate Branding",
+        "width": 715,
+        "height": 425
+      },
+      {
+        "src": "assets/img/portfolio/hoardings-boards/hoardings_boards_02.jpeg",
+        "file": "hoardings_boards_02.jpeg",
+        "title": "Strategic Fixed Highway Hoarding",
+        "width": 636,
+        "height": 378
+      },
+      {
+        "src": "assets/img/portfolio/hoardings-boards/hoardings_boards_03.jpeg",
+        "file": "hoardings_boards_03.jpeg",
+        "title": "Commercial Glow Sign Board (GSB)",
+        "width": 715,
+        "height": 426
+      },
+      {
+        "src": "assets/img/portfolio/hoardings-boards/hoardings_boards_04.jpeg",
+        "file": "hoardings_boards_04.jpeg",
+        "title": "Heavy Duty Metal Frame Board",
+        "width": 332,
+        "height": 426
+      },
+      {
+        "src": "assets/img/portfolio/hoardings-boards/hoardings_boards_05.jpeg",
+        "file": "hoardings_boards_05.jpeg",
+        "title": "Outdoor Billboard Structure",
+        "width": 396,
+        "height": 425
+      },
+      {
+        "src": "assets/img/portfolio/hoardings-boards/hoardings_boards_2_01.jpeg",
+        "file": "hoardings_boards_2_01.jpeg",
+        "title": "Steel Structure Frame Board",
+        "width": 716,
+        "height": 425
+      },
+      {
+        "src": "assets/img/portfolio/hoardings-boards/hoardings_boards_2_02.jpeg",
+        "file": "hoardings_boards_2_02.jpeg",
+        "title": "High-Impact Outdoor Frame Board",
+        "width": 715,
+        "height": 425
+      },
+      {
+        "src": "assets/img/portfolio/hoardings-boards/hoardings_boards_2_03.jpeg",
+        "file": "hoardings_boards_2_03.jpeg",
+        "title": "Premium Acrylic 3D Sign Board",
+        "width": 715,
+        "height": 425
+      },
+      {
+        "src": "assets/img/portfolio/hoardings-boards/hoardings_boards_2_04.jpeg",
+        "file": "hoardings_boards_2_04.jpeg",
+        "title": "Fixed Vinyl Billboard Signage",
+        "width": 715,
+        "height": 426
+      }
+    ],
+    "hoarding-process": [
+      {
+        "src": "assets/img/portfolio/hoarding-process/hoarding_installation_01.jpeg",
+        "file": "hoarding_installation_01.jpeg",
+        "title": "Structural Pipe & Frame Fabrication",
+        "width": 293,
+        "height": 434
+      },
+      {
+        "src": "assets/img/portfolio/hoarding-process/hoarding_installation_02.jpeg",
+        "file": "hoarding_installation_02.jpeg",
+        "title": "High-Altitude Pipe Fitting Process",
+        "width": 293,
+        "height": 434
+      },
+      {
+        "src": "assets/img/portfolio/hoarding-process/hoarding_installation_03.jpeg",
+        "file": "hoarding_installation_03.jpeg",
+        "title": "LED Spot Lighting & Power Setup",
+        "width": 292,
+        "height": 219
+      },
+      {
+        "src": "assets/img/portfolio/hoarding-process/hoarding_installation_04.jpeg",
+        "file": "hoarding_installation_04.jpeg",
+        "title": "Day & Night Visibility Verification",
+        "width": 290,
+        "height": 217
+      },
+      {
+        "src": "assets/img/portfolio/hoarding-process/hoarding_installation_05.jpeg",
+        "file": "hoarding_installation_05.jpeg",
+        "title": "Night Illumination Inspection",
+        "width": 293,
+        "height": 433
+      },
+      {
+        "src": "assets/img/portfolio/hoarding-process/hoarding_installation_06.jpeg",
+        "file": "hoarding_installation_06.jpeg",
+        "title": "Daylight Quality Check & GSB",
+        "width": 294,
+        "height": 434
+      },
+      {
+        "src": "assets/img/portfolio/hoarding-process/hoarding_installation_07.jpeg",
+        "file": "hoarding_installation_07.jpeg",
+        "title": "On-Site Safety & Mounting Quality",
+        "width": 293,
+        "height": 434
+      },
+      {
+        "src": "assets/img/portfolio/hoarding-process/hoarding_installation_08.jpeg",
+        "file": "hoarding_installation_08.jpeg",
+        "title": "Structural Integrity Proofing",
+        "width": 700,
+        "height": 408
+      },
+      {
+        "src": "assets/img/portfolio/hoarding-process/hoarding_installation_09.jpeg",
+        "file": "hoarding_installation_09.jpeg",
+        "title": "Racky Proof & NOC Compliance Documentation",
+        "width": 702,
+        "height": 213
+      },
+      {
+        "src": "assets/img/portfolio/hoarding-process/van_bill_process_01.jpeg",
+        "file": "van_bill_process_01.jpeg",
+        "title": "Daily Opening & Closing Time Snap Verification",
+        "width": 568,
+        "height": 323
+      },
+      {
+        "src": "assets/img/portfolio/hoarding-process/van_bill_process_02.jpeg",
+        "file": "van_bill_process_02.jpeg",
+        "title": "Daily 4 GPS Working Location Proofs",
+        "width": 573,
+        "height": 491
+      },
+      {
+        "src": "assets/img/portfolio/hoarding-process/van_bill_process_03.jpeg",
+        "file": "van_bill_process_03.jpeg",
+        "title": "Comprehensive Campaign Final Cover Dossier",
+        "width": 492,
+        "height": 783
+      },
+      {
+        "src": "assets/img/portfolio/hoarding-process/van_bill_process_04.jpeg",
+        "file": "van_bill_process_04.jpeg",
+        "title": "Certified Original Vehicle Log Sheet",
+        "width": 390,
+        "height": 301
+      },
+      {
+        "src": "assets/img/portfolio/hoarding-process/van_bill_process_05.jpeg",
+        "file": "van_bill_process_05.jpeg",
+        "title": "Transparent Client Campaign Reporting",
+        "width": 393,
+        "height": 299
+      }
+    ],
+    "meetings": [
+      {
+        "src": "assets/img/portfolio/meetings/meetings_01.jpeg",
+        "file": "meetings_01.jpeg",
+        "title": "Interactive Farmer & Dealer Selfie Display Zone",
+        "width": 715,
+        "height": 424
+      },
+      {
+        "src": "assets/img/portfolio/meetings/meetings_02.jpeg",
+        "file": "meetings_02.jpeg",
+        "title": "Corporate Dealer Conference Organization",
+        "width": 716,
+        "height": 425
+      },
+      {
+        "src": "assets/img/portfolio/meetings/meetings_03.jpeg",
+        "file": "meetings_03.jpeg",
+        "title": "Rural Farmer Outreach Gathering",
+        "width": 714,
+        "height": 425
+      },
+      {
+        "src": "assets/img/portfolio/meetings/meetings_04.jpeg",
+        "file": "meetings_04.jpeg",
+        "title": "Product Knowledge & Technical Seminar",
+        "width": 715,
+        "height": 425
+      }
+    ],
+    "crop-shows": [
+      {
+        "src": "assets/img/portfolio/crop-shows/crop_shows_01.jpeg",
+        "file": "crop_shows_01.jpeg",
+        "title": "Live Crop Field Show Demonstration",
+        "width": 716,
+        "height": 425
+      },
+      {
+        "src": "assets/img/portfolio/crop-shows/crop_shows_02.jpeg",
+        "file": "crop_shows_02.jpeg",
+        "title": "Farmer Interactive Selfie Display Point",
+        "width": 714,
+        "height": 425
+      },
+      {
+        "src": "assets/img/portfolio/crop-shows/crop_shows_03.jpeg",
+        "file": "crop_shows_03.jpeg",
+        "title": "High-Attendance Crop Seminar Meeting",
+        "width": 715,
+        "height": 424
+      },
+      {
+        "src": "assets/img/portfolio/crop-shows/crop_shows_04.jpeg",
+        "file": "crop_shows_04.jpeg",
+        "title": "Agricultural Field Trial Floral Decoration",
+        "width": 715,
+        "height": 425
+      },
+      {
+        "src": "assets/img/portfolio/crop-shows/crop_shows_05.jpeg",
+        "file": "crop_shows_05.jpeg",
+        "title": "Branded Entry Gate for Agri Field Day",
+        "width": 900,
+        "height": 1600
+      }
+    ],
+    "agro-expo": [
+      {
+        "src": "assets/img/portfolio/agro-expo/agro_expo_custom_01.jpeg",
+        "file": "agro_expo_custom_01.jpeg",
+        "title": "Customized Exhibition Pavilion Stall",
+        "width": 714,
+        "height": 425
+      },
+      {
+        "src": "assets/img/portfolio/agro-expo/agro_expo_custom_02.jpeg",
+        "file": "agro_expo_custom_02.jpeg",
+        "title": "Agro Expo Premium Brand Showcase Stall",
+        "width": 715,
+        "height": 424
+      },
+      {
+        "src": "assets/img/portfolio/agro-expo/agro_expo_custom_03.jpeg",
+        "file": "agro_expo_custom_03.jpeg",
+        "title": "Modular Fabric Display Exhibition Stall",
+        "width": 715,
+        "height": 424
+      },
+      {
+        "src": "assets/img/portfolio/agro-expo/agro_expo_custom_04.jpeg",
+        "file": "agro_expo_custom_04.jpeg",
+        "title": "Interactive Client Consultation Counter",
+        "width": 715,
+        "height": 424
+      },
+      {
+        "src": "assets/img/portfolio/agro-expo/agro_expo_fabric_01.jpeg",
+        "file": "agro_expo_fabric_01.jpeg",
+        "title": "Grand Agro Exhibition Entry & Hall Setup",
+        "width": 716,
+        "height": 424
+      },
+      {
+        "src": "assets/img/portfolio/agro-expo/agro_expo_fabric_02.jpeg",
+        "file": "agro_expo_fabric_02.jpeg",
+        "title": "Fabric Tensile Brand Display Architecture",
+        "width": 715,
+        "height": 425
+      },
+      {
+        "src": "assets/img/portfolio/agro-expo/agro_expo_fabric_03.jpeg",
+        "file": "agro_expo_fabric_03.jpeg",
+        "title": "Corporate Brand Pavilion at State Expo",
+        "width": 714,
+        "height": 425
+      },
+      {
+        "src": "assets/img/portfolio/agro-expo/agro_expo_fabric_04.jpeg",
+        "file": "agro_expo_fabric_04.jpeg",
+        "title": "Custom Product Demonstration Showcase",
+        "width": 714,
+        "height": 425
+      }
+    ],
+    "promotional-materials": [
+      {
+        "src": "assets/img/portfolio/promotional-materials/branding_materials_01.jpeg",
+        "file": "branding_materials_01.jpeg",
+        "title": "Aerodynamic Tear-Drop Feather Flags",
+        "width": 675,
+        "height": 404
+      },
+      {
+        "src": "assets/img/portfolio/promotional-materials/branding_materials_02.jpeg",
+        "file": "branding_materials_02.jpeg",
+        "title": "Heavy Duty Outdoor Garden Umbrellas",
+        "width": 390,
+        "height": 425
+      },
+      {
+        "src": "assets/img/portfolio/promotional-materials/branding_materials_03.jpeg",
+        "file": "branding_materials_03.jpeg",
+        "title": "Field Umbrella Marketing Stations",
+        "width": 320,
+        "height": 426
+      },
+      {
+        "src": "assets/img/portfolio/promotional-materials/branding_materials_04.jpeg",
+        "file": "branding_materials_04.jpeg",
+        "title": "Branded Event Promotion Umbrellas",
+        "width": 169,
+        "height": 425
+      },
+      {
+        "src": "assets/img/portfolio/promotional-materials/branding_materials_05.jpeg",
+        "file": "branding_materials_05.jpeg",
+        "title": "Custom Corporate T-Shirts with Logo",
+        "width": 254,
+        "height": 425
+      },
+      {
+        "src": "assets/img/portfolio/promotional-materials/branding_materials_06.jpeg",
+        "file": "branding_materials_06.jpeg",
+        "title": "Promotional Caps & Uniform Apparel",
+        "width": 284,
+        "height": 425
+      },
+      {
+        "src": "assets/img/portfolio/promotional-materials/branding_materials_07.jpeg",
+        "file": "branding_materials_07.jpeg",
+        "title": "Display Counter Product Merchandising",
+        "width": 255,
+        "height": 425
+      },
+      {
+        "src": "assets/img/portfolio/promotional-materials/branding_materials_08.jpeg",
+        "file": "branding_materials_08.jpeg",
+        "title": "Promoter Staff Branded Uniforms",
+        "width": 255,
+        "height": 425
+      },
+      {
+        "src": "assets/img/portfolio/promotional-materials/branding_materials_09.jpeg",
+        "file": "branding_materials_09.jpeg",
+        "title": "Outdoor Brand Activation Gear",
+        "width": 222,
+        "height": 425
+      },
+      {
+        "src": "assets/img/portfolio/promotional-materials/standees_bags_01.jpeg",
+        "file": "standees_bags_01.jpeg",
+        "title": "Custom Corporate Awards & Trophies",
+        "width": 249,
+        "height": 232
+      },
+      {
+        "src": "assets/img/portfolio/promotional-materials/standees_bags_02.png",
+        "file": "standees_bags_02.png",
+        "title": "Standees Bags 02.Png",
+        "width": 208,
+        "height": 425
+      },
+      {
+        "src": "assets/img/portfolio/promotional-materials/standees_bags_03.jpeg",
+        "file": "standees_bags_03.jpeg",
+        "title": "Retractable Roll-Up Standee Displays",
+        "width": 208,
+        "height": 425
+      },
+      {
+        "src": "assets/img/portfolio/promotional-materials/standees_bags_04.jpeg",
+        "file": "standees_bags_04.jpeg",
+        "title": "Branded Caution Tape & Event Bunting",
+        "width": 293,
+        "height": 411
+      },
+      {
+        "src": "assets/img/portfolio/promotional-materials/standees_bags_05.jpeg",
+        "file": "standees_bags_05.jpeg",
+        "title": "Agricultural Product Gift Packages",
+        "width": 173,
+        "height": 424
+      },
+      {
+        "src": "assets/img/portfolio/promotional-materials/standees_bags_06.jpeg",
+        "file": "standees_bags_06.jpeg",
+        "title": "Premium Roll-Up Banner Standees",
+        "width": 270,
+        "height": 424
+      },
+      {
+        "src": "assets/img/portfolio/promotional-materials/standees_bags_07.jpeg",
+        "file": "standees_bags_07.jpeg",
+        "title": "Corporate Marketing Handout Bags",
+        "width": 221,
+        "height": 365
+      },
+      {
+        "src": "assets/img/portfolio/promotional-materials/standees_bags_08.jpeg",
+        "file": "standees_bags_08.jpeg",
+        "title": "Dealer Reward Mementos & Shields",
+        "width": 714,
+        "height": 158
+      },
+      {
+        "src": "assets/img/portfolio/promotional-materials/standees_bags_09.jpeg",
+        "file": "standees_bags_09.jpeg",
+        "title": "Event Perimeter Branded Buntings",
+        "width": 714,
+        "height": 267
+      },
+      {
+        "src": "assets/img/portfolio/promotional-materials/standees_bags_10.jpeg",
+        "file": "standees_bags_10.jpeg",
+        "title": "Point of Sale Exhibition Standee",
+        "width": 337,
+        "height": 425
+      },
+      {
+        "src": "assets/img/portfolio/promotional-materials/standees_bags_11.jpeg",
+        "file": "standees_bags_11.jpeg",
+        "title": "Standees Bags 11",
+        "width": 353,
+        "height": 425
+      }
+    ]
+  },
+  "clients": [
+    {
+      "src": "assets/img/clients_clean/client_logo_01.png",
+      "file": "client_logo_01.png",
+      "name": "TVS Motor Company",
+      "width": 330,
+      "height": 174
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_02.png",
+      "file": "client_logo_02.png",
+      "name": "Bayer CropScience",
+      "width": 302,
+      "height": 178
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_03.png",
+      "file": "client_logo_03.png",
+      "name": "Syngenta India",
+      "width": 317,
+      "height": 96
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_04.png",
+      "file": "client_logo_04.png",
+      "name": "UPL Limited",
+      "width": 309,
+      "height": 127
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_05.png",
+      "file": "client_logo_05.png",
+      "name": "Corteva Agriscience",
+      "width": 321,
+      "height": 115
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_06.png",
+      "file": "client_logo_06.png",
+      "name": "Mahindra Tractors",
+      "width": 277,
+      "height": 192
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_07.png",
+      "file": "client_logo_07.png",
+      "name": "Eicher Tractors",
+      "width": 186,
+      "height": 186
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_08.png",
+      "file": "client_logo_08.png",
+      "name": "Amul (GCMMF)",
+      "width": 320,
+      "height": 137
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_09.png",
+      "file": "client_logo_09.png",
+      "name": "FMC Corporation",
+      "width": 333,
+      "height": 195
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_10.png",
+      "file": "client_logo_10.png",
+      "name": "IFFCO",
+      "width": 331,
+      "height": 196
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_11.png",
+      "file": "client_logo_11.png",
+      "name": "Yara Fertilisers",
+      "width": 323,
+      "height": 156
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_12.png",
+      "file": "client_logo_12.png",
+      "name": "Biostadt India",
+      "width": 316,
+      "height": 121
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_13.png",
+      "file": "client_logo_13.png",
+      "name": "AICL Limited",
+      "width": 329,
+      "height": 156
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_14.png",
+      "file": "client_logo_14.png",
+      "name": "Coromandel International",
+      "width": 255,
+      "height": 194
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_15.png",
+      "file": "client_logo_15.png",
+      "name": "Rallis India (Tata)",
+      "width": 302,
+      "height": 167
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_16.png",
+      "file": "client_logo_16.png",
+      "name": "Dhanuka Agritech",
+      "width": 331,
+      "height": 119
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_17.png",
+      "file": "client_logo_17.png",
+      "name": "PI Industries",
+      "width": 312,
+      "height": 116
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_18.png",
+      "file": "client_logo_18.png",
+      "name": "Sumitomo Chemical",
+      "width": 151,
+      "height": 122
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_19.png",
+      "file": "client_logo_19.png",
+      "name": "Indofil Industries",
+      "width": 321,
+      "height": 114
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_20.png",
+      "file": "client_logo_20.png",
+      "name": "Godrej Agrovet",
+      "width": 318,
+      "height": 63
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_21.png",
+      "file": "client_logo_21.png",
+      "name": "Crystal Crop Protection",
+      "width": 331,
+      "height": 183
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_22.png",
+      "file": "client_logo_22.png",
+      "name": "Adama India",
+      "width": 320,
+      "height": 185
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_23.png",
+      "file": "client_logo_23.png",
+      "name": "Nagarjuna Fertilizers",
+      "width": 248,
+      "height": 185
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_24.png",
+      "file": "client_logo_24.png",
+      "name": "Krishidhan Seeds",
+      "width": 323,
+      "height": 136
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_25.png",
+      "file": "client_logo_25.png",
+      "name": "Ankur Seeds",
+      "width": 299,
+      "height": 181
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_26.png",
+      "file": "client_logo_26.png",
+      "name": "Mahyco",
+      "width": 317,
+      "height": 156
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_27.png",
+      "file": "client_logo_27.png",
+      "name": "Rasi Seeds",
+      "width": 281,
+      "height": 181
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_28.png",
+      "file": "client_logo_28.png",
+      "name": "Kaveri Seed Company",
+      "width": 328,
+      "height": 189
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_29.png",
+      "file": "client_logo_29.png",
+      "name": "Nuziveedu Seeds",
+      "width": 185,
+      "height": 179
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_30.png",
+      "file": "client_logo_30.png",
+      "name": "Tata Agrico",
+      "width": 321,
+      "height": 149
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_31.png",
+      "file": "client_logo_31.png",
+      "name": "Swavalamban",
+      "width": 237,
+      "height": 147
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_32.png",
+      "file": "client_logo_32.png",
+      "name": "Jubilant Agri",
+      "width": 310,
+      "height": 145
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_33.png",
+      "file": "client_logo_33.png",
+      "name": "Shivalik Rasayan",
+      "width": 237,
+      "height": 66
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_34.png",
+      "file": "client_logo_34.png",
+      "name": "Excel Crop Care",
+      "width": 323,
+      "height": 154
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_35.png",
+      "file": "client_logo_35.png",
+      "name": "Gharda Chemicals",
+      "width": 311,
+      "height": 187
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_36.png",
+      "file": "client_logo_36.png",
+      "name": "Sudarshan Chemical",
+      "width": 214,
+      "height": 189
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_37.png",
+      "file": "client_logo_37.png",
+      "name": "HPM Chemicals",
+      "width": 310,
+      "height": 186
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_38.png",
+      "file": "client_logo_38.png",
+      "name": "Willowood Chemicals",
+      "width": 168,
+      "height": 186
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_39.png",
+      "file": "client_logo_39.png",
+      "name": "Bharat Certis AgriScience",
+      "width": 319,
+      "height": 122
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_40.png",
+      "file": "client_logo_40.png",
+      "name": "Agrow Allied",
+      "width": 166,
+      "height": 190
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_41.png",
+      "file": "client_logo_41.png",
+      "name": "Multiplex Group",
+      "width": 134,
+      "height": 191
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_42.png",
+      "file": "client_logo_42.png",
+      "name": "Geolife Agritech",
+      "width": 189,
+      "height": 187
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_43.png",
+      "file": "client_logo_43.png",
+      "name": "Jaivik Agri",
+      "width": 184,
+      "height": 184
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_44.png",
+      "file": "client_logo_44.png",
+      "name": "VNR Seeds",
+      "width": 285,
+      "height": 178
+    },
+    {
+      "src": "assets/img/clients_clean/client_logo_45.png",
+      "file": "client_logo_45.png",
+      "name": "Greenlife Science",
+      "width": 225,
+      "height": 183
+    }
+  ]
+}
